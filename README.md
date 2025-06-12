@@ -4,7 +4,9 @@ This repository contains a Python application for transcribing, summarizing and 
 
 ![Screenshot 1](Screenshots/1.png)
 
+
 ![Screenshot 2](Screenshots/2.png)
+
 
 ![Screenshot 3](Screenshots/3.png)
 
@@ -187,8 +189,8 @@ Follow these steps to set up the application on your system:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/ilya-kolchinsky/GMeetSummarizer.git](https://github.com/ilya-kolchinsky/GMeetSummarizer.git)
-    cd your-repo-name
+    git clone https://github.com/ilya-kolchinsky/GMeetSummarizer.git
+    cd GMeetSummarizer
     ```
 
 2.  **Run the Setup Script:**
